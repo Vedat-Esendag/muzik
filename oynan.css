@@ -1,0 +1,15 @@
+h1{
+    color: black;
+    font-family:cursive;
+    text-align: center;
+    border: black;
+    border-radius: 25%;
+}
+.komik{
+    float: left;
+    margin-right: 15px
+}
+.komik2{
+    float:right
+    ;
+}
