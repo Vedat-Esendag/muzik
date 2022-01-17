@@ -1,0 +1,4 @@
+# muzik
+dunno
+oynan
+bidda 
